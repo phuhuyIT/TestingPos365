@@ -1,0 +1,6 @@
+-- install
+cd /your/project/path
+npm install cypress --save-dev
+
+-- opening the app
+npx cypress open
