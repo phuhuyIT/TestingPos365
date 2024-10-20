@@ -4,3 +4,6 @@ npm install cypress --save-dev
 
 -- opening the app
 npx cypress open
+
+
+test 3 của số lượng trở đi
